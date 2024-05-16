@@ -1,0 +1,26 @@
+
+{
+  "apps": [
+    {
+      "id": "sqrc",
+      "thumbnail": "https://cdn.shopify.com/app-store/listing_images/fed452e40cf6d6ebe610a137017500c8/icon/CJet5dy-sIQDEAE=.jpeg",
+      "title": "Super QR Codes",
+      "description": "All-in-One QR code generator for products, collections, discounts, and carts with scan tracking.",
+      "app_store_url": "https://apps.shopify.com/super-qr-codes?utm_source=app-dashboard&utm_medium=store-url&utm_campaign=toolstr-cross-promo"
+    },
+    {
+      "id": "sld",
+      "thumbnail": "https://cdn.shopify.com/app-store/listing_images/f40f7a4f71c17fcc6879641c88191da4/icon/CP31_6C-sIQDEAE=.jpeg",
+      "title": "Super Local Delivery",
+      "description": "All-in-one route optimizer for local deliveries with driver app, notifications, and order tracking.",
+      "app_store_url": "https://apps.shopify.com/local-delivery-routes?utm_source=app-dashboard&utm_medium=store-url&utm_campaign=toolstr-cross-promo"
+    },
+    {
+      "id": "loopsy",
+      "thumbnail": "https://cdn.shopify.com/app-store/listing_images/705a9be785bed9914517fedd189163ff/icon/CKTEv5jKw4QDEAE=.jpeg",
+      "title": "loopsy",
+      "description": "Create shoppable stories to boost engagement and increase conversion and sales",
+      "app_store_url": "https://apps.shopify.com/loopsy?utm_source=app-dashboard&utm_medium=store-url&utm_campaign=toolstr-cross-promo"
+    }
+  ]
+}
