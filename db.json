@@ -1,6 +1,13 @@
 {
   "apps": [
     {
+      "id": "apploy",
+      "thumbnail": "https://cdn.shopify.com/app-store/listing_images/ffc8e1292654bbee23c24eaffa9df06d/icon/CNeSnpyKm4sDEAE=.png",
+      "title": "Apploy - Mobile App Builder",
+      "description": "Simplest mobile app builder, convert your store into a mobile app in minutes.",
+      "app_store_url": "https://apps.shopify.com/apploy-mobile-app-builder?utm_source=app-dashboard&utm_medium=store-url&utm_campaign=toolstr-cross-promo"
+    },
+    {
       "id": "sqrc",
       "thumbnail": "https://cdn.shopify.com/app-store/listing_images/fed452e40cf6d6ebe610a137017500c8/icon/CJet5dy-sIQDEAE=.jpeg",
       "title": "Super QR Codes",
@@ -13,6 +20,13 @@
       "title": "Super Local Delivery",
       "description": "All-in-one route optimizer for local deliveries with driver app, notifications, and order tracking.",
       "app_store_url": "https://apps.shopify.com/local-delivery-routes?utm_source=app-dashboard&utm_medium=store-url&utm_campaign=toolstr-cross-promo"
+    },
+    {
+      "id": "addressly",
+      "thumbnail": "https://cdn.shopify.com/app-store/listing_images/bf6a21e11533ac98dce9a05c214a0866/icon/CPzTv4vg_IoDEAE=.jpeg",
+      "title": "Addressly - Address Validator",
+      "description": "AI powered addresses validation, no more failed deliveries.",
+      "app_store_url": "https://apps.shopify.com/addressly-address-validator?utm_source=app-dashboard&utm_medium=store-url&utm_campaign=toolstr-cross-promo"
     },
     {
       "id": "loopsy",
